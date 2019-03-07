@@ -1,0 +1,12 @@
+10_12_2018;20_01_47;Sistema iniciado com sucesso
+10_12_2018;20_12_31;Cadastro do padrao bom realizado com sucesso
+10_12_2018;20_12_47;Login realizado com sucesso. Padrao: bom
+10_12_2018;20_13_04;Login realizado com sucesso. Padrao: bom
+10_12_2018;20_13_04;Login realizado com sucesso. Padrao: bom
+10_12_2018;20_13_17;Login realizado com sucesso. Padrao: bom
+10_12_2018;20_13_25;Login realizado com sucesso. Padrao: bom
+10_12_2018;20_13_51;Login realizado com sucesso. Padrao: bom
+10_12_2018;20_14_21;Login realizado com sucesso. Padrao: bom
+10_12_2018;20_14_29;Login realizado com sucesso. Padrao: bom
+10_12_2018;20_20_15;Login realizado com sucesso. Padrao: bom
+10_12_2018;21_14_45;Sistema iniciado com sucesso
